@@ -3,27 +3,27 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Your title here"
-    description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus malesuada nisi tellus, non imperdiet nisi tempor at."
+    title="Improve business transactions through Twitter Pay"
+    description="Twitter Pay will enable a business connection among all the Twitter Users without asking for their bank details, emails or banking details... "
   >
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/feature.svg"
-      imageAlt="First feature alt text"
+      title="Authorize Twitter Pay"
+      description="By authorizing you will enable Twitter Pay to send Direct Messages to your account and the ones that you send money to..."
+      image="/assets/images/connect.svg"
+      imageAlt="Twitter pay connect"
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Send your money..."
+      description="Send your money through your favourite payment method. Paypal, Google Pay, Stripe, Apple Pay and many to come...."
       image="/assets/images/feature2.svg"
-      imageAlt="Second feature alt text"
+      imageAlt="Send the money"
       reverse
     />
     <VerticalFeatureRow
-      title="Your title here"
-      description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
+      title="Get your confirmation Direct message"
+      description="Both your and the recipient will recieve a Direct message from Twitter Pay  with the details of the transaction....."
       image="/assets/images/feature3.svg"
-      imageAlt="Third feature alt text"
+      imageAlt="Get a confirmation"
     />
   </Section>
 );

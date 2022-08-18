@@ -7,12 +7,12 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Lorem ipsum dolor sit amet consectetur adipisicing elit."
-      subtitle="Start your Free Trial."
+      title="Get notified through your Direct Messages.."
+      subtitle="Connect your twitter now..."
       button={
-        <Link href="https://creativedesignsguru.com/category/nextjs/">
+        <Link href="https://twitter-pay.vercel.app/">
           <a>
-            <Button>Get Started</Button>
+            <Button>SignIn</Button>
           </a>
         </Link>
       }

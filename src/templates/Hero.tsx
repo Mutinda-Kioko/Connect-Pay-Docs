@@ -12,12 +12,12 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template">
+          <Link href="https://github.com/Mutinda-Kioko/TwitterPay">
             <a>GitHub</a>
           </Link>
         </li>
         <li>
-          <Link href="/">
+          <Link href="https://twitter-pay.vercel.app/">
             <a>Sign in</a>
           </Link>
         </li>
@@ -28,15 +28,15 @@ const Hero = () => (
       <HeroOneButton
         title={
           <>
-            {'The modern landing page for\n'}
-            <span className="text-primary-500">React developers</span>
+            {'Welcome to \n'}
+            <span className="text-primary-500">Twitter Pay 🎁</span>
           </>
         }
-        description="The easiest way to build a React landing page in seconds."
+        description="Connecting your transactions to your twitter account ✨✨✨"
         button={
-          <Link href="https://creativedesignsguru.com/category/nextjs/">
+          <Link href="https://twitter-pay.vercel.app/">
             <a>
-              <Button xl>Download Your Free Theme</Button>
+              <Button xl>Launch App</Button>
             </a>
           </Link>
         }
