@@ -4,7 +4,7 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="Improve business transactions through Connect Pay"
-    description="Connect Pay will enable a business connection among all the Connect Users without asking for their bank details, emails or banking details... "
+    description="Connect Pay will enable a business connection among all the Twitter Users without asking for their bank details, emails or banking details... "
   >
     <VerticalFeatureRow
       title="Authorize Connect Pay"
