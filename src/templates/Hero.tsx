@@ -29,7 +29,7 @@ const Hero = () => (
         title={
           <>
             {'Welcome to \n'}
-            <span className="text-primary-500">Twitter Pay 🎁</span>
+            <span className="text-primary-500">Connect Pay 🎁</span>
           </>
         }
         description="Connecting your transactions to your twitter account ✨✨✨"
