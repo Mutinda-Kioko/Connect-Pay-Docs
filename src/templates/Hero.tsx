@@ -17,7 +17,7 @@ const Hero = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://connectpay.vercel.app/">
+          <Link href="https://connect-pay.vercel.app/">
             <a>Sign in</a>
           </Link>
         </li>
@@ -34,7 +34,7 @@ const Hero = () => (
         }
         description="Connecting your transactions to your twitter account ✨✨✨"
         button={
-          <Link href="https://connectpay.vercel.app/">
+          <Link href="https://connect-pay.vercel.app/">
             <a>
               <Button xl>Launch App</Button>
             </a>
