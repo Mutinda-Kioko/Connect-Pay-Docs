@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://github.com/Mutinda-Kioko/TwitterPay">
+          <Link href="https://github.com/Mutinda-Kioko/ConnectPay">
             <a>GitHub</a>
           </Link>
         </li>

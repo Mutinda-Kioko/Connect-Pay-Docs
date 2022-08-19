@@ -46,7 +46,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://github.com/Mutinda-Kioko/TwitterPay">
+          <Link href="https://github.com/Mutinda-Kioko/ConnectPay">
             <a>GitHub</a>
           </Link>
         </li>
