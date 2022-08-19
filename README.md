@@ -1,2 +1,2 @@
 This is the documentation for Twitter Pay....
-Link:https://twitter-pay.vercel.app/
+Link:https://connectpaydocs.vercel.app/
