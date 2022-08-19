@@ -10,7 +10,7 @@ const Banner = () => (
       title="Get notified through your Direct Messages.."
       subtitle="Connect your twitter now..."
       button={
-        <Link href="https://twitter-pay.vercel.app/">
+        <Link href="https://connectpay.vercel.app/">
           <a>
             <Button>SignIn</Button>
           </a>

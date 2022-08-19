@@ -46,7 +46,7 @@ const Footer = () => (
           </Link>
         </li>
         <li>
-          <Link href="https://twitter-pay.vercel.app/">
+          <Link href="https://github.com/Mutinda-Kioko/TwitterPay">
             <a>GitHub</a>
           </Link>
         </li>

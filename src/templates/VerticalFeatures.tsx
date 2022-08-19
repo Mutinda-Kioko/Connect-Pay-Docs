@@ -3,14 +3,14 @@ import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
   <Section
-    title="Improve business transactions through Twitter Pay"
-    description="Twitter Pay will enable a business connection among all the Twitter Users without asking for their bank details, emails or banking details... "
+    title="Improve business transactions through Connect Pay"
+    description="Connect Pay will enable a business connection among all the Connect Users without asking for their bank details, emails or banking details... "
   >
     <VerticalFeatureRow
-      title="Authorize Twitter Pay"
-      description="By authorizing you will enable Twitter Pay to send Direct Messages to your account and the ones that you send money to..."
+      title="Authorize Connect Pay"
+      description="By authorizing you will enable Connect Pay to send Direct Messages to your account and the ones that you send money to..."
       image="/assets/images/connect.svg"
-      imageAlt="Twitter pay connect"
+      imageAlt="Connect pay connect"
     />
     <VerticalFeatureRow
       title="Send your money..."
@@ -21,7 +21,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Get your confirmation Direct message"
-      description="Both your and the recipient will recieve a Direct message from Twitter Pay  with the details of the transaction....."
+      description="Both your and the recipient will recieve a Direct message from Connect Pay  with the details of the transaction....."
       image="/assets/images/feature3.svg"
       imageAlt="Get a confirmation"
     />
